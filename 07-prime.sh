@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo " enter a number: "
-read NUMBER
+read -s NUMBER
 flag=0
 for(( i=2;i*i<=NUMBER;i++))
 do
