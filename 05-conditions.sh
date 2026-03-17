@@ -1,9 +1,9 @@
 #!/bin/bash
 
 number=15
-if [ $number -ge 10 ]
+if [ $number -eq 10 ]
 then 
-echo "number is not digit"
+echo "number is  digit"
 else
-echo "number is digit"
+echo "number is not digit"
 fi
