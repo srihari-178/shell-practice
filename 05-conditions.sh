@@ -1,6 +1,6 @@
 #!/bin/bash
 
-number=15
+number=10
 if [ $number -eq 10 ]
 then 
 echo "number is  digit"
